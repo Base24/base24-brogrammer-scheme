@@ -20,13 +20,13 @@ Base24 scheme for Brogrammer
 |base0D|![#](https://placehold.it/25/2a84d2/000000?text=+)
 |base0E|![#](https://placehold.it/25/4e59b7/000000?text=+)
 |base0F|![#](https://placehold.it/25/7b080c/000000?text=+)
-|base10|![#](https://placehold.it/25/8e9198/000000?text=+)
-|base11|![#](https://placehold.it/25/47484c/000000?text=+)
+|base10|![#](https://placehold.it/25/0a0a0a/000000?text=+)
+|base11|![#](https://placehold.it/25/020202/000000?text=+)
 |base12|![#](https://placehold.it/25/de342e/000000?text=+)
 |base13|![#](https://placehold.it/25/f2bd09/000000?text=+)
 |base14|![#](https://placehold.it/25/1dd260/000000?text=+)
-|base15|![#](https://placehold.it/25/0f7cda/000000?text=+)
-|base16|![#](https://placehold.it/25/0f80d5/000000?text=+)
+|base15|![#](https://placehold.it/25/289af0/000000?text=+)
+|base16|![#](https://placehold.it/25/509bdc/000000?text=+)
 |base17|![#](https://placehold.it/25/524fb9/000000?text=+)
 
 ## Download
